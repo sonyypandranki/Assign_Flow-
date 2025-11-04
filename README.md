@@ -161,7 +161,7 @@ The following environment variables are required:
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `VITE_SUPABASE_URL` | Your Supabase project URL | `https://xxxxx.supabase.co` |
+| `VITE_SUPABASE_URL` | Your Supabase project URL | `https://supabase.com/dashboard/project/afgpbqezmxyduoatvmqg` |
 | `VITE_SUPABASE_PUBLISHABLE_KEY` | Your Supabase anonymous/public key | `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...` |
 
 ### How to Get Supabase Credentials
