@@ -94,8 +94,8 @@ bun install
 Create a `.env` file in the root directory:
 
 ```env
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_anon_key
+VITE_SUPABASE_URL=https://supabase.com/dashboard/project/afgpbqezmxyduoatvmqg
+VITE_SUPABASE_PUBLISHABLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFmZ3BicWV6bXh5ZHVvYXR2bXFnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE4MzM2ODAsImV4cCI6MjA3NzQwOTY4MH0._66fmdOW2nzfuFYaFi7X3V9NRZxz9e2Mp4icgV5rn6g
 ```
 
 4. **Run the development server**
@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: https://github.com/sonyypandranki
 
 ## 🙏 Acknowledgments
 
